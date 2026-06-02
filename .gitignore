@@ -18,3 +18,7 @@ node_modules/
 # Build output (if added later)
 dist/
 build/
+
+# Assets and Docs
+assets/
+docs/
